@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "fs": "^0.0.1-security",
+    "ip": "^2.0.1",
+    "particlesjs": "^2.2.3"
+  }
+}

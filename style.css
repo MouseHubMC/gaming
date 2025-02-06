@@ -1,0 +1,23 @@
+body.dark-mode {
+  background-color: #333;
+  color: white;
+}
+
+body.dark-mode .title-button {
+  background-color: #333;
+  color: white;
+}
+
+body.dark-mode .dark-mode-button {
+  background-color: #4CAF50;
+  color: white;
+}
+
+body.dark-mode .search-bar {
+  background-color: #333;
+  color: white;
+}
+
+body.dark-mode #file-list li {
+  color: white;
+}
